@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1580039563 source:/home/vincent/Documents/Struktur Data/TP/TP/main.cpp
+	"hello.h"
+
+1580037634 /home/vincent/Documents/Struktur Data/TP/TP/hello.h
+	<iostream>
+	<cstdlib>
+

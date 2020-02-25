@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1581252745 source:/home/vincent/Documents/TP/TP 3/MOD3_1301190381_IF-43-05/library.cpp
+	"library.h"
+
+1581252755 /home/vincent/Documents/TP/TP 3/MOD3_1301190381_IF-43-05/library.h
+	<iostream>
+
+1581182575 source:/home/vincent/Documents/TP/TP 3/MOD3_1301190381_IF-43-05/main.cpp
+	"library.h"
+

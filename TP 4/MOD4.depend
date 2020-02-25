@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1581868702 source:/home/vincent/Documents/TP/TP 4/MOD4/doublelinkedlist.cpp
+	"doublelinkedlist.h"
+	<iostream>
+
+1581868697 /home/vincent/Documents/TP/TP 4/MOD4/doublelinkedlist.h
+	<iostream>
+
+1581869302 source:/home/vincent/Documents/TP/TP 4/MOD4/main.cpp
+	<iostream>
+	"doublelinkedlist.h"
+
